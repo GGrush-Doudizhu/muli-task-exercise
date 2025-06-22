@@ -1,0 +1,1 @@
+F:\StarCraft\Maps\SCEdit\tools\euddraft0.10.2.3\euddraft.exe main.edd

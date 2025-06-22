@@ -1,0 +1,13 @@
+[main]
+input: in.scx
+output: out.scx
+
+
+::[main.eps]
+[main.py]
+
+[eudTurbo]
+
+[freeze]
+freeze: 0
+
