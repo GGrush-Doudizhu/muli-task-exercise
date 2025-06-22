@@ -1,3 +1,4 @@
 *.tmp
 *.pyc
 /__epspy__
+*.bat
